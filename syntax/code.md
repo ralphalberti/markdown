@@ -8,6 +8,13 @@ Here is an example:
 This is a code block
 ```
 
+Here is a second example:
+
+```markdown
+This is another code block
+This time we have two lines of text
+```
+
 To produce a code block in Markdown, simply indent every line of the block by at least 4 spaces or 1 tab.
 
 For example:
