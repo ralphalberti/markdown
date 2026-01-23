@@ -44,3 +44,15 @@ You can define the language to be used for syntax highlighting by adding the nam
     ```javascript
     var a = {};
     ```
+
+Let's see what some Python code looks like
+
+    ...python
+    def display_menu():
+        print("Menu:")
+        print("1. Which team will win the Super Bowl in 2025?")
+        print("2. How will the Jets perform?")
+        print("3. Who will win Offensive Rookie of the Year?")
+        print("4. Exit")
+    ...
+
